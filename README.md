@@ -11,6 +11,6 @@ This Java-based web crawler is designed to extract historical information relate
 To utilize the Vietnamese History Web Crawler and gather historical data from Wikipedia articles, follow these steps:
 - Clone the repository:
    ```bash
-   git clone https://github.com/hduc1103/Wikipedia-History_data-Crawl.git
+   git clone https://github.com/hduc1103/Wikipedia_History_data_Crawl.git
 - Compile and run Main_crawler.java
 - The outputs can be found in History/output_files
